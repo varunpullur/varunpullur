@@ -1,31 +1,15 @@
-## About
-I enjoy building software and systems that are usable, performant and extensible. Currently, I'm pursuing a Master of Science in Computer Science at the University of Southern California. Prior to this, I worked as a full-stack web developer at Deskera. Before Deskera, I was an undergrad at NITK Surathkal.
 
-## GitHub Summary
-![Archit's Profile Stats](https://github-readme-stats.vercel.app/api?username=archit-p&count_private=true&show_icons=true&theme=synthwave&hide_title=true)
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=varunpullur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=varunpullur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varunpullur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## My Tech Stack
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%232d203c.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%232d203c.svg?style=flat&logo=java&logoColor=%23ED8B00)
-![Python](https://img.shields.io/badge/Python-%232d203c.svg?style=flat&logo=python&logoColor=%2314354C)
-![Go](https://img.shields.io/badge/Go-%232d203c.svg?style=flat&logo=go&logoColor=%2300ADD8)
-![C](https://img.shields.io/badge/C-%232d203c.svg?style=flat&logo=c&logoColor=%2300599C)
-![C++](https://img.shields.io/badge/C++-%232d203c.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=varunpullur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Web Frameworks
-![Spring](https://img.shields.io/badge/Spring-%232d203c.svg?style=flat&logo=spring&logoColor=%236DB33F)
-![React](https://img.shields.io/badge/React-%232d203c.svg?style=flat&logo=react&logoColor=%2361DAFB?)
-![Redux](https://img.shields.io/badge/Redux-%232d203c.svg?style=flat&logo=redux&logoColor=%23593d88)
-![Gatsby](https://img.shields.io/badge/Gatsby-%232d203c.svg?style=flat&logo=gatsby&logoColor=%23663399)
+---
+[![](https://visitcount.itsvg.in/api?id=varunpullur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Storage
-![PostgreSQL](https://img.shields.io/badge/Postgres-%232d203c.svg?style=flat&logo=postgresql&logoColor=%23316192)
-![MongoDB](https://img.shields.io/badge/MongoDB-%232d203c.svg?style=flat&logo=mongodb&logoColor=%234ea94b)
-![Redis](https://img.shields.io/badge/Redis-%232d203c.svg?style=flat&logo=redis&logoColor=%23DD0031)
-![Kafka](https://img.shields.io/badge/Kafka-%232d203c.svg?style=flat&logo=apachekafka&logoColor=white)
-
-### CI
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232d203c.svg?style=flat&logo=githubactions&logoColor=%232671E5)
-![TravisCI](https://img.shields.io/badge/Travis_CI-%232d203c.svg?style=flat&logo=travis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232d203c.svg?style=flat&logo=docker&logoColor=%230db7ed)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
